@@ -1,5 +1,3 @@
-# House-Prices
-House prices regression 
 # House Prices - Advanced Regression Techniques
 In this kaggle competition [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), participants are challenged to predict the final house prices with 79 explanatory variables describing almost every aspect of residential homes in Ames, lowa. 
 
