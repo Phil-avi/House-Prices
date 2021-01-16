@@ -1,5 +1,5 @@
 # House Prices - Advanced Regression Techniques
-In this kaggle competition [Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), participants are challenged to predict the final house prices with 79 explanatory variables describing almost every aspect of residential homes in Ames, lowa. 
+In this [kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), participants are challenged to predict the final house prices with 79 explanatory variables describing almost every aspect of residential homes in Ames, lowa. 
 
 Because this is my very first machine learning project, I focused primarily on adopting a systematic approach toward machine learning problems. This kernel contains the entire process including data exploration, data engineering, and modeling. Several base models which include Lasso, KernelRidge, GradientBoostingRegressor, XGBRegressor, and LGBRegressor were explored and fine-tuned for better prediction results. Additionlly, I experimented with two basic model stacking methods which resulted in the final model with the lowest rmse.
 # Files Description
